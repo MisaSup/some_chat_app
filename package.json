@@ -1,0 +1,19 @@
+{
+  "name": "some_chat_app",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MisaSup/some_chat_app.git"
+  },
+  "author": "Gorelov Mikhail",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MisaSup/some_chat_app/issues"
+  },
+  "homepage": "https://github.com/MisaSup/some_chat_app#readme"
+}
